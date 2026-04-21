@@ -3,3 +3,5 @@ numpy
 scipy
 plotly
 pandas
+fastapi
+uvicorn
